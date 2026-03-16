@@ -18,6 +18,23 @@ Your science. Finally, the way you think it.
 
 ---
 
+## How we share here
+
+**Express it as you feel it.**
+Don't translate your thinking into someone else's format. 
+Share it the way it lives in your mind: messy, visual, 
+spoken, mathematical, whatever is true to you.
+
+**Show where you're uncertain.**
+The most honest thing a scientist can say is "I don't know 
+if this is right." Your uncertainties aren't weaknesses. 
+They're invitations. Share them openly.
+
+**Let the community help you build it.**
+Your idea doesn't have to be finished to be shared here. 
+Bring what you have. Ask what you need. This is a place 
+where incomplete thinking becomes collaborative discovery.
+
 ## What this platform supports
 
 - Audio & podcast episodes
