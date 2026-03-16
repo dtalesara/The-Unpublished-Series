@@ -63,6 +63,10 @@ All work shared through The Unpublished Series is:
 ## Current work
 
 - **The Unpublished Series Podcast** — *(coming soon)*
+- **Biosignature Detection via IR Spectroscopy**
+2MASS J12073346-3932539 b — JWST data analysis
+[Published on Astrobites](https://astrobites.org/2025/07/25/ir-jwst-exoplanets/) 
+— and the interactive version, coming here soon.
 
 ---
 
