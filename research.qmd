@@ -1,0 +1,69 @@
+---
+title: "Biosignature Detection via IR Spectroscopy"
+author: "The Unpublished Series"
+date: today
+format:
+  html:
+    code-fold: true
+    code-tools: true
+---
+
+## The Question
+
+What if we could read the atmosphere of a planet hundreds of 
+light years away and find the fingerprints of life?
+
+This is not a thought experiment. This is what infrared 
+spectroscopy allows us to do right now using 
+publicly available JWST data.
+
+## The Planet
+
+2MASS J12073346-3932539 b. A giant planet five times the 
+mass of Jupiter, orbiting a young star 230 light years away. 
+One of the first directly imaged planetary mass companions 
+ever discovered.
+
+We have its spectrum. We have Python. We have a question 
+that won't leave us alone.
+
+## What I found
+
+Using JWST data from the NASA Exoplanet Archive and a 
+custom spectral analysis pipeline, absorption features 
+were identified corresponding to several molecular 
+biosignature candidates including H2, SO2, CH4, CO2, 
+N2O and O3.
+
+H2 and CH4 are confirmed in existing literature. 
+The additional detections are presented here openly, 
+with full uncertainty analysis, for community scrutiny 
+and discussion.
+
+## What I am uncertain about
+
+Not all detected troughs are equally reliable. Some may 
+be noise artifacts. The HITRAN matching has inherent 
+ambiguity - multiple molecules can produce overlapping 
+absorption features at similar wavenumbers.
+
+This is not a definitive detection. This is an honest 
+first look at what the data might be telling us - and 
+an invitation to look further together.
+
+## The interactive analysis
+
+*Full interactive notebook coming here soon - 
+where you can run the code yourself, adjust parameters, 
+and see exactly how each detection was made.*
+
+## Published on Astrobites
+
+This research was also published on Astrobites:
+[Infrared Spectrum: Probing for life beyond the visible](https://astrobites.org)
+
+---
+
+*Have thoughts on this analysis? Uncertainties you want 
+to challenge? Ways to extend it? That is exactly what 
+this platform is for.*

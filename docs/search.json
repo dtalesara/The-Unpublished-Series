@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Biosignature Detection via IR Spectroscopy",
+    "section": "",
+    "text": "What if we could read the atmosphere of a planet hundreds of light years away and find the fingerprints of life?\nThis is not a thought experiment. This is what infrared spectroscopy allows us to do right now using publicly available JWST data."
+  },
+  {
+    "objectID": "research.html#the-question",
+    "href": "research.html#the-question",
+    "title": "Biosignature Detection via IR Spectroscopy",
+    "section": "",
+    "text": "What if we could read the atmosphere of a planet hundreds of light years away and find the fingerprints of life?\nThis is not a thought experiment. This is what infrared spectroscopy allows us to do right now using publicly available JWST data."
+  },
+  {
+    "objectID": "research.html#the-planet",
+    "href": "research.html#the-planet",
+    "title": "Biosignature Detection via IR Spectroscopy",
+    "section": "The Planet",
+    "text": "The Planet\n2MASS J12073346-3932539 b. A giant planet five times the mass of Jupiter, orbiting a young star 230 light years away. One of the first directly imaged planetary mass companions ever discovered.\nWe have its spectrum. We have Python. We have a question that won’t leave us alone."
+  },
+  {
+    "objectID": "research.html#what-i-found",
+    "href": "research.html#what-i-found",
+    "title": "Biosignature Detection via IR Spectroscopy",
+    "section": "What I found",
+    "text": "What I found\nUsing JWST data from the NASA Exoplanet Archive and a custom spectral analysis pipeline, absorption features were identified corresponding to several molecular biosignature candidates including H2, SO2, CH4, CO2, N2O and O3.\nH2 and CH4 are confirmed in existing literature. The additional detections are presented here openly, with full uncertainty analysis, for community scrutiny and discussion."
+  },
+  {
+    "objectID": "research.html#what-i-am-uncertain-about",
+    "href": "research.html#what-i-am-uncertain-about",
+    "title": "Biosignature Detection via IR Spectroscopy",
+    "section": "What I am uncertain about",
+    "text": "What I am uncertain about\nNot all detected troughs are equally reliable. Some may be noise artifacts. The HITRAN matching has inherent ambiguity - multiple molecules can produce overlapping absorption features at similar wavenumbers.\nThis is not a definitive detection. This is an honest first look at what the data might be telling us - and an invitation to look further together."
+  },
+  {
+    "objectID": "research.html#the-interactive-analysis",
+    "href": "research.html#the-interactive-analysis",
+    "title": "Biosignature Detection via IR Spectroscopy",
+    "section": "The interactive analysis",
+    "text": "The interactive analysis\nFull interactive notebook coming here soon - where you can run the code yourself, adjust parameters, and see exactly how each detection was made."
+  },
+  {
+    "objectID": "research.html#published-on-astrobites",
+    "href": "research.html#published-on-astrobites",
+    "title": "Biosignature Detection via IR Spectroscopy",
+    "section": "Published on Astrobites",
+    "text": "Published on Astrobites\nThis research was also published on Astrobites: Infrared Spectrum: Probing for life beyond the visible\n\nHave thoughts on this analysis? Uncertainties you want to challenge? Ways to extend it? That is exactly what this platform is for."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Unpublished Series",
+    "section": "",
+    "text": "You have something real to say. A discovery, a question, a theory that won’t leave you alone. But the only system available asks you to strip out your voice, your instinct, your way of thinking and replace it with a format that was never built for you.\nThe Unpublished Series exists because science belongs to everyone who thinks rigorously and honestly, regardless of how they express it.\nShare your work here. In your voice. In your form. With a community that verifies through openness rather than gatekeeping.\nYour science. Finally, the way you think it."
+  },
+  {
+    "objectID": "index.html#science-expressed-your-way.",
+    "href": "index.html#science-expressed-your-way.",
+    "title": "The Unpublished Series",
+    "section": "",
+    "text": "You have something real to say. A discovery, a question, a theory that won’t leave you alone. But the only system available asks you to strip out your voice, your instinct, your way of thinking and replace it with a format that was never built for you.\nThe Unpublished Series exists because science belongs to everyone who thinks rigorously and honestly, regardless of how they express it.\nShare your work here. In your voice. In your form. With a community that verifies through openness rather than gatekeeping.\nYour science. Finally, the way you think it."
+  },
+  {
+    "objectID": "index.html#how-we-share-here",
+    "href": "index.html#how-we-share-here",
+    "title": "The Unpublished Series",
+    "section": "How we share here",
+    "text": "How we share here\nExpress it as you feel it.\nDon’t translate your thinking into someone else’s format. Share it the way it lives in your mind.\nShow where you’re uncertain.\nYour uncertainties aren’t weaknesses. They’re invitations. Share them openly.\nLet the community help you build it.\nBring what you have. Ask what you need. This is a place where incomplete thinking becomes collaborative discovery."
+  },
+  {
+    "objectID": "index.html#what-lives-here",
+    "href": "index.html#what-lives-here",
+    "title": "The Unpublished Series",
+    "section": "What lives here",
+    "text": "What lives here\n\nInteractive research notebooks\nVisual essays & infographics\n\nAudio & podcast episodes\nVideo\n\nNo required format. No gatekeeping. Just rigorous, open, expressive science."
+  },
+  {
+    "objectID": "index.html#first-research",
+    "href": "index.html#first-research",
+    "title": "The Unpublished Series",
+    "section": "First research",
+    "text": "First research\n\n\n\n\n\n\nNoteBiosignature Detection via IR Spectroscopy\n\n\n\nDetecting molecular biosignatures on 2MASS J12073346-3932539 b using JWST data. Interactive notebook coming soon."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "podcast.html",
+    "href": "podcast.html",
+    "title": "The Unpublished Series Podcast",
+    "section": "",
+    "text": "Episodes where scientists think out loud.\nNo literature reviews. No false certainty. Just a mind working on something real in public.\nFirst episode dropping soon."
+  },
+  {
+    "objectID": "podcast.html#coming-soon",
+    "href": "podcast.html#coming-soon",
+    "title": "The Unpublished Series Podcast",
+    "section": "",
+    "text": "Episodes where scientists think out loud.\nNo literature reviews. No false certainty. Just a mind working on something real in public.\nFirst episode dropping soon."
+  }
+]

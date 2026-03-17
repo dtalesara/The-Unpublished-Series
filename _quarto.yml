@@ -1,0 +1,24 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Unpublished Series"
+  description: "Science, expressed your way."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: podcast.qmd
+        text: Podcast
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true

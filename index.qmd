@@ -1,0 +1,53 @@
+---
+title: "The Unpublished Series"
+page-layout: full
+---
+
+## Science, expressed your way.
+
+You have something real to say. A discovery, a question, a theory that won't leave you alone. But the only system available asks you to strip out your voice, your instinct, your way of thinking and replace it with a format that was never built for you.
+
+The Unpublished Series exists because science belongs to everyone who thinks rigorously and honestly, regardless of how they express it.
+
+Share your work here. In your voice. In your form. With a community that verifies through openness rather than gatekeeping.
+
+Your science. Finally, the way you think it.
+
+---
+
+## How we share here
+
+**Express it as you feel it.**  
+Don't translate your thinking into someone else's format. 
+Share it the way it lives in your mind.
+
+**Show where you're uncertain.**  
+Your uncertainties aren't weaknesses. They're invitations. 
+Share them openly.
+
+**Let the community help you build it.**  
+Bring what you have. Ask what you need. This is a place 
+where incomplete thinking becomes collaborative discovery.
+
+---
+
+## What lives here
+
+- Interactive research notebooks
+- Visual essays & infographics  
+- Audio & podcast episodes
+- Video
+
+No required format. No gatekeeping. Just rigorous, 
+open, expressive science.
+
+---
+
+## First research
+
+::: {.callout-note}
+## Biosignature Detection via IR Spectroscopy
+Detecting molecular biosignatures on 2MASS J12073346-3932539 b 
+using JWST data. Interactive notebook coming soon.
+:::
+
